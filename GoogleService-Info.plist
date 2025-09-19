@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Authenticate using Face ID</string>
+	<key>Privacy - Camera Usage Description
+</key>
+	<string>We need access to your camera to scan documents
+</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>API_KEY</key>
+	<string>AIzaSyBfBw3axNBN6iFfcc3tPpfdesNjxjYm-Lw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>199707473649</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>studentapp</string>
+	<key>PROJECT_ID</key>
+	<string>studentapp-e74a6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studentapp-e74a6.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:199707473649:ios:aa77445d68b2b559665b50</string>
+</dict>
+</plist>
